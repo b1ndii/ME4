@@ -1,0 +1,49 @@
+.sidebar{
+    width: 250px;
+    background-color: rgb(236, 235, 233);
+    box-shadow: inset black;
+}
+html {
+    height: 100%;
+}
+body {
+    min-height: 100%;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+.nike{
+    height: 100px;
+    width: 250px;
+}
+
+.main{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+nav {
+    display: flex;
+    height: 50px;
+    align-items: center;
+}
+button{
+    height:50px;
+    width: 130px;
+}
+.search{
+    margin-left: 300px;
+    width: 500px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: gainsboro;
+}
+.main-body{
+    margin-top: 50px;
+}
+
+.nalt-majt-div{
+    height: 100px;
+    width: 700px;
+    background-color: blue;
+}
